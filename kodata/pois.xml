@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<result xmlns="http://meta.et4.de/ET2014A">
+  <status>OK</status>
+  <count>5</count>
+  <overallcount>5</overallcount>
+  <items>
+    <item>
+      <global_id>feratel_poi_91a2dcec-9914-4714-8c4c-bc133aa198a9</global_id>
+      <id>91a2dcec-9914-4714-8c4c-bc133aa198a9</id>
+      <title>Mozarts Wohnhaus, Mozart Denkmal und Mozartplatz</title>
+      <type>POI</type>
+      <categories>
+        <category>Freizeiteinrichtungen</category>
+        <category>Sonstige Freizeiteinrichtung</category>
+      </categories>
+      <texts>
+        <text rel="openings" type="text/html">Täglich 09.00-17.30 Uhr&lt;br&gt;24.12.: 09.00-15.00 Uhr&lt;br&gt;(letzter Einlass 30 Minuten vor Schließzeit)&lt;br&gt;&lt;br&gt;Rundgang mit Audio-Guide. Führungen nach Vereinbarung. &lt;br&gt;Öffentliche kostenlose Führungen durch den Autographentresor während der Mozartwoche. &lt;br&gt;Menschen mit Behinderung: Mozart-Wohnhaus ist über den Eingang Theatergasse barrierefrei zugänglich. &lt;br&gt;Hunde nicht erlaubt (außer Assistenzhunde)</text>
+        <text rel="details" type="text/html">&lt;p&gt;Von 1773 bis 1787 lebte die Familie Mozart im „Tanzmeisterhaus“ am  heutigen Makartplatz. Die geräumige Acht-Zimmer-Wohnung im ersten Stock  beherbergt nun ein Museum.&lt;/p&gt;&lt;p&gt;Der Mozartplatz befindet sich im Zentrum der Salzburg Altstadt und ist  umgeben von Residenz- und Waagplatz. Das Herzstück des Platzes bildet  die Mozart-Statue. &lt;/p&gt;</text>
+        <text rel="teaser" type="text/html"/>
+        <text rel="teaser" type="text/plain"/>
+      </texts>
+      <country>AT</country>
+      <areas>
+        <area>Salzburg</area>
+        <area>Salzburg Stadt</area>
+        <area>Stadt Salzburg</area>
+      </areas>
+      <city>Salzburg</city>
+      <zip>5020</zip>
+      <street>Makartplatz 8</street>
+      <phone>+43 662 87 42 27 40</phone>
+      <web>https://web4.deskline.net/austriainfo/de/infosystem/detail/SPO/91a2dcec-9914-4714-8c4c-bc133aa198a9/info</web>
+      <email>museum.service@mozarteum.at</email>
+      <author/>
+      <geo>
+        <main latitude="47.8026282" longitude="13.0438679"/>
+      </geo>
+      <media_objects>
+        <media_object rel="other" url="https://mozarteum.at/museums/mozarts-geburtshaus/#info">Homepage</media_object>
+        <media_object rel="default" url="http://resc.deskline.net/images/SPO/1/41fa6cc7-1daa-40da-a2a2-2cc91d134914/99/image.jpg" type="image/jpeg" source="">Mozart Wohnhaus</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/SPO/1/512dd017-83d0-4997-bee5-6fe1626680b2/99/image.jpg" type="image/jpeg" source="">Mozartplatz Denkmal</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/SPO/1/3d75c655-b709-4569-b872-c9a397ec4089/99/image.jpg" type="image/jpeg" source="">Statue Mozartplatz</media_object>
+      </media_objects>
+      <timeIntervals>
+        <timeInterval start="2022-12-25T09:00:00+01:00" end="2022-12-25T17:30:00+01:00" repeatUntil="2022-12-31T09:00:00+01:00" tz="Europe/Berlin" freq="Weekly" interval="1">
+          <weekdays>
+            <weekday>Sunday</weekday>
+            <weekday>Monday</weekday>
+            <weekday>Tuesday</weekday>
+            <weekday>Wednesday</weekday>
+            <weekday>Thursday</weekday>
+            <weekday>Friday</weekday>
+            <weekday>Saturday</weekday>
+          </weekdays>
+        </timeInterval>
+        <timeInterval start="2023-01-02T09:00:00+01:00" end="2023-01-02T17:30:00+01:00" repeatUntil="2023-12-31T09:00:00+01:00" tz="Europe/Berlin" freq="Weekly" interval="1">
+          <weekdays>
+            <weekday>Sunday</weekday>
+            <weekday>Monday</weekday>
+            <weekday>Tuesday</weekday>
+            <weekday>Wednesday</weekday>
+            <weekday>Thursday</weekday>
+            <weekday>Friday</weekday>
+            <weekday>Saturday</weekday>
+          </weekdays>
+        </timeInterval>
+        <timeInterval start="2023-01-01T12:00:00+01:00" end="2023-01-01T17:30:00+01:00" repeatUntil="2023-01-01T12:00:00+01:00" tz="Europe/Berlin" freq="Weekly" interval="1">
+          <weekdays>
+            <weekday>Sunday</weekday>
+            <weekday>Monday</weekday>
+            <weekday>Tuesday</weekday>
+            <weekday>Wednesday</weekday>
+            <weekday>Thursday</weekday>
+            <weekday>Friday</weekday>
+            <weekday>Saturday</weekday>
+          </weekdays>
+        </timeInterval>
+      </timeIntervals>
+      <attributes>
+        <attribute key="Quelle">Feratel</attribute>
+        <attribute key="Quellekey">91a2dcec-9914-4714-8c4c-bc133aa198a9</attribute>
+        <attribute key="SYSTEMID_FERATEL">91a2dcec-9914-4714-8c4c-bc133aa198a9</attribute>
+        <attribute key="GEMKZF">50101</attribute>
+        <attribute key="BEZIRK">Stadt Salzburg</attribute>
+        <attribute key="BUNDESLAND">Salzburg</attribute>
+      </attributes>
+      <features>
+        <feature>OBJECT_OPEN_MONTAG</feature>
+        <feature>OBJECT_OPEN_DIENSTAG</feature>
+        <feature>OBJECT_OPEN_MITTWOCH</feature>
+        <feature>OBJECT_OPEN_DONNERSTAG</feature>
+        <feature>OBJECT_OPEN_FREITAG</feature>
+        <feature>OBJECT_OPEN_SAMSTAG</feature>
+        <feature>OBJECT_OPEN_SONNTAG</feature>
+      </features>
+      <addresses>
+        <address rel="contact_person">
+          <name>Mozarts Wohnhaus</name>
+          <city>Salzburg</city>
+          <zip>5020</zip>
+          <street>Makartplatz 8</street>
+          <phone>+43 662 87 42 27 40</phone>
+          <web>https://mozarteum.at/museums/mozarts-geburtshaus/#info</web>
+          <email>museum.service@mozarteum.at</email>
+        </address>
+      </addresses>
+      <created>0001-01-01T00:00:00Z</created>
+      <changed>2022-12-05T16:20:38+01:00</changed>
+      <source url="https://www.feratel.com/">Feratel</source>
+      <company/>
+      <district/>
+      <postoffice/>
+      <phone2/>
+    </item>
+    <item>
+      <global_id>feratel_poi_1202ae41-3413-4225-870c-32586270a52a</global_id>
+      <id>1202ae41-3413-4225-870c-32586270a52a</id>
+      <title>Haus der Natur</title>
+      <type>POI</type>
+      <categories>
+        <category>Freizeiteinrichtungen</category>
+        <category>Sonstige Freizeiteinrichtung</category>
+      </categories>
+      <texts>
+        <text rel="details" type="text/html">&lt;p&gt;&lt;b&gt;Haus der Natur – Museum für Natur und Technik&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Ein Besuch im Haus der Natur ist so vielfältig wie das Leben selbst. Von urzeitlichen Sauriern zu den Sternstunden der Raumfahrt, von bunten Unterwasserwelten zu seltenen Reptilien aus aller Welt, von sagenhaften Kristallschätzen zum Innenleben unseres eigenen Körpers. Weiteres Highlight: Experimentieren in Österreichs vielseitigstem Science Center.&lt;br&gt;&lt;/p&gt;</text>
+        <text rel="teaser" type="text/html"/>
+        <text rel="teaser" type="text/plain"/>
+      </texts>
+      <country>AT</country>
+      <areas>
+        <area>Salzburg</area>
+        <area>Salzburg Stadt</area>
+        <area>Stadt Salzburg</area>
+      </areas>
+      <city>Salzburg</city>
+      <zip>5020</zip>
+      <street>Museumsplatz 5</street>
+      <phone>(0043) 662 8426530</phone>
+      <web>https://web4.deskline.net/austriainfo/de/infosystem/detail/SKI/1202ae41-3413-4225-870c-32586270a52a/info</web>
+      <email>office@hausdernatur.at</email>
+      <author/>
+      <geo>
+        <main latitude="47.8016766693354" longitude="13.0392004922043"/>
+      </geo>
+      <media_objects>
+        <media_object rel="other" url="https://hausdernatur.at/de/">Homepage</media_object>
+        <media_object rel="default" url="http://resc.deskline.net/images/SKI/1/0b157fba-6f6b-4193-b7bb-577a6b724977/99/image.jpg" type="image/jpeg" source="Haus der Natur">Aquarium</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/SKI/1/6593c574-ca25-47bc-9357-54537ab5ffcf/99/image.jpg" type="image/jpeg" source="Haus der Natur">Fisch</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/SKI/1/617d69b8-7656-4413-9f91-6dfca18b73ab/99/image.jpg" type="image/jpeg" source="Haus der Natur">Hirn</media_object>
+      </media_objects>
+      <timeIntervals>
+        <timeInterval start="2021-04-01T09:00:00+02:00" end="2021-04-01T17:00:00+02:00" repeatUntil="2025-04-01T09:00:00+02:00" tz="Europe/Berlin" freq="Weekly" interval="1">
+          <weekdays>
+            <weekday>Sunday</weekday>
+            <weekday>Monday</weekday>
+            <weekday>Tuesday</weekday>
+            <weekday>Wednesday</weekday>
+            <weekday>Thursday</weekday>
+            <weekday>Friday</weekday>
+            <weekday>Saturday</weekday>
+          </weekdays>
+        </timeInterval>
+      </timeIntervals>
+      <attributes>
+        <attribute key="Quelle">Feratel</attribute>
+        <attribute key="Quellekey">1202ae41-3413-4225-870c-32586270a52a</attribute>
+        <attribute key="SYSTEMID_FERATEL">1202ae41-3413-4225-870c-32586270a52a</attribute>
+        <attribute key="GEMKZF">50101</attribute>
+        <attribute key="BEZIRK">Stadt Salzburg</attribute>
+        <attribute key="BUNDESLAND">Salzburg</attribute>
+      </attributes>
+      <features>
+        <feature>OBJECT_OPEN_MONTAG</feature>
+        <feature>OBJECT_OPEN_DIENSTAG</feature>
+        <feature>OBJECT_OPEN_MITTWOCH</feature>
+        <feature>OBJECT_OPEN_DONNERSTAG</feature>
+        <feature>OBJECT_OPEN_FREITAG</feature>
+        <feature>OBJECT_OPEN_SAMSTAG</feature>
+        <feature>OBJECT_OPEN_SONNTAG</feature>
+      </features>
+      <addresses>
+        <address rel="contact_person">
+          <name>Haus der Natur</name>
+          <city>Salzburg</city>
+          <zip>5020</zip>
+          <street>Museumsplatz 5</street>
+          <phone>(0043) 662 8426530</phone>
+          <web>https://hausdernatur.at/de/</web>
+          <email>office@hausdernatur.at</email>
+        </address>
+      </addresses>
+      <created>0001-01-01T00:00:00Z</created>
+      <changed>2021-04-16T18:17:29+02:00</changed>
+      <source url="https://www.feratel.com/">Feratel</source>
+      <company/>
+      <district/>
+      <postoffice/>
+      <phone2/>
+    </item>
+    <item>
+      <global_id>feratel_poi_aa68c862-00ac-4c25-a59b-00fd4adc8e72</global_id>
+      <id>aa68c862-00ac-4c25-a59b-00fd4adc8e72</id>
+      <title>Kajetanerkirche</title>
+      <type>POI</type>
+      <categories>
+        <category>Sehenswürdigkeiten</category>
+        <category>Bauwerke/Gebäude</category>
+        <category>Kirche/Dom/Basilika</category>
+        <category>Kloster/Stift</category>
+      </categories>
+      <texts>
+        <text rel="openings" type="text/html">&lt;p&gt;Messe täglich 18 Uhr&lt;/p&gt;&lt;p&gt;  &lt;b&gt;Osterwoche:&lt;/b&gt;&lt;br&gt;  Palmsonntag 18 Uhr&lt;br&gt; Gründonnerstag 18 Uhr&lt;br&gt;Karfreitag 15 Uhr&lt;br&gt;Osternacht 19 Uhr&lt;br&gt;Ostersonntag 18 Uhr&lt;br&gt;Ostermontag 18 Uhr&lt;/p&gt;</text>
+        <text rel="details" type="text/html">&lt;h3&gt;Erlebnis Kirche: Scala Santa&lt;/h3&gt; &lt;p&gt;Eine Besonderheit der Kajetanerkirche ist die Heilige Stiege, die 1712 als Nachahmung der Scala Santa in Rom errichtet wurde und nur auf Knien erklommen werden darf. Noch heute erinnert sie an die barocken Formen der Frömmigkeit. Die Stiege in Salzburg besitzt ebenso wie ihr Vorbild in Rom als Zeichen für die Blutstropfen Jesu Christi auf der 2., 11. und 28. Stufe ein Kreuz. Jenes auf der 2. Stufe ging leider verloren und die leere Einfassung ist zu sehen. Es handelt sich um eine besondere Auszeichnung für die nachgeahmte Treppe in Salzburg, somit handelt es sich nicht mehr nur um eine Nachbildung, sondern um eine Art „Ableger“,&amp;nbsp; in seiner Heiligkeit ähnlich bedeutend wie das Original. Die Treppe ist jeden Samstag von 11-12 Uhr geöffnet.   &lt;/p&gt; &lt;h3&gt;Baugeschichte&lt;/h3&gt; &lt;p&gt;1591 erwarb Erzbischof Wolf Dietrich ein Spital samt Kirche zur Errichtung eines Priesterseminars, das unter der Leitung des Theatinerordens (Kajetaner) stehen sollte. Erst unter Erzbischof Johann Ernst von Thun wurde die Kirche 1696 fertig gestellt und 1700 eingeweiht. Als 1809 die Salzburger Niederlassung des Theateriner-Ordens aufgelassen wurde, wäre beinahe&amp;nbsp; auch die Kajetanerkirche verfallen. 1923 wurden Kirche und Kloster dem Orden der Barmherzigen Brüder übergeben, die sich um ihre Instandsetzung bemühten. Während des Zweiten Weltkrieges diente der Bau als Lazarett und wurde 1944 von Bomben beschädigt und danach wieder hergestellt. &lt;/p&gt; &lt;h3&gt;Architektur und Innenraum &lt;/h3&gt; &lt;p&gt;Mit der Kajetanerkirche hielt das italienische Barock Einzug in Salzburg. Die breitgelagerte, palastartig gegliederte Fassade behandelt Kirche und Kloster als einheitlichen Baukomplex. Sie wird von einer mächtigen querovalen Kuppel hinterfangen, die den sakralen Charakter der Anlage sichtbar macht. &lt;br&gt;Das Innere der Kirche wirkt durch den Stuck sehr festlich, vornehm und klar. Die lichtspendende Kuppel dominiert den Raum. Über der Vorhalle in die Emporenbrüstung eingebaut, befindet sich die älteste erhaltene Orgel von Salzburg, die um 1700 von Christoph Egedacher erbaut wurde. &lt;br&gt;&lt;/p&gt;</text>
+        <text rel="teaser" type="text/html">Die Kajetanerkirche am gleichnamigen Platz im Kaiviertel blickt auf eine reiche Geschichte zurück. Hier wirkte schon der berühmte Arzt Paracelsus und im Inneren befindet sich ein überraschender Schatz: Die Heilige Stiege oder Scala Santa.</text>
+        <text rel="teaser" type="text/plain"/>
+      </texts>
+      <country>AT</country>
+      <areas>
+        <area>Salzburg</area>
+        <area>Salzburg Stadt</area>
+        <area>Stadt Salzburg</area>
+      </areas>
+      <city>Salzburg</city>
+      <zip>5020</zip>
+      <street>Kajetanerplatz 1</street>
+      <phone>+43662 8088-0</phone>
+      <web>https://web4.deskline.net/austriainfo/de/infosystem/detail/TSG/aa68c862-00ac-4c25-a59b-00fd4adc8e72/info</web>
+      <author/>
+      <geo>
+        <main latitude="47.7970705675741" longitude="13.0513393878937"/>
+      </geo>
+      <media_objects>
+        <media_object rel="other" url="https://www.barmherzige-brueder.at/">Homepage</media_object>
+        <media_object rel="default" url="http://resc.deskline.net/images/TSG/1/5441b1fc-8eff-4ed7-9ee6-14dfd74b2cb2/99/image.jpg" type="image/jpeg" source="Barmherzige Brüder">Frontansicht Kajetanerkirche</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/0d9f36bf-7e5c-4ec3-b756-b5b070fe3641/99/image.jpg" type="image/jpeg" source="Barmherzige Brüder">Kuppel Kajetanerkirche</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/18a88ccd-917f-43eb-b35e-f3a77cf72f18/99/image.jpg" type="image/jpeg" source="Barmherzige Brüder">Altar Kajetanerkirche</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/67db1ca8-136a-4eec-afd7-27b0efc725ce/99/image.jpg" type="image/jpeg" source="Barmherzige Brüder">Fresko Kajetanerkirche</media_object>
+      </media_objects>
+      <attributes>
+        <attribute key="Quelle">Feratel</attribute>
+        <attribute key="Quellekey">aa68c862-00ac-4c25-a59b-00fd4adc8e72</attribute>
+        <attribute key="SYSTEMID_FERATEL">aa68c862-00ac-4c25-a59b-00fd4adc8e72</attribute>
+        <attribute key="GEMKZF">50101</attribute>
+        <attribute key="BEZIRK">Stadt Salzburg</attribute>
+        <attribute key="BUNDESLAND">Salzburg</attribute>
+      </attributes>
+      <features>
+        <feature>OBJECT_OPEN_MONTAG</feature>
+        <feature>OBJECT_OPEN_DIENSTAG</feature>
+        <feature>OBJECT_OPEN_MITTWOCH</feature>
+        <feature>OBJECT_OPEN_DONNERSTAG</feature>
+        <feature>OBJECT_OPEN_FREITAG</feature>
+        <feature>OBJECT_OPEN_SAMSTAG</feature>
+        <feature>OBJECT_OPEN_SONNTAG</feature>
+      </features>
+      <addresses>
+        <address rel="contact_person">
+          <name>Kajetanerkirche</name>
+          <city>Salzburg</city>
+          <zip>5020</zip>
+          <street>Kajetanerplatz 1</street>
+          <phone>+43662 8088-0</phone>
+          <web>https://mein-gotteshaus.at/</web>
+        </address>
+      </addresses>
+      <created>0001-01-01T00:00:00Z</created>
+      <changed>2023-03-29T15:40:40+02:00</changed>
+      <source url="https://www.feratel.com/">Feratel</source>
+      <company/>
+      <district/>
+      <postoffice/>
+      <phone2/>
+    </item>
+    <item>
+      <global_id>feratel_poi_d8d971ed-f8ca-4115-959e-71a03604e68f</global_id>
+      <id>d8d971ed-f8ca-4115-959e-71a03604e68f</id>
+      <title>Langlaufloipe "Dorf" in Eugendorf</title>
+      <type>POI</type>
+      <categories>
+        <category>Sporteinrichtungen</category>
+        <category>Wintersport-Einrichtungen</category>
+        <category>Langlaufgebiet</category>
+      </categories>
+      <texts>
+        <text rel="openings" type="text/html">&lt;p&gt;Im Winter und nur bei ausreichender Schneelage!&lt;/p&gt; &lt;p&gt;Genauere Informationen im Tourismusverband Eugendorf&lt;/p&gt;</text>
+        <text rel="details" type="text/html">&lt;p&gt;&lt;b&gt;Dorfloipe Eugendorf&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Langlaufen im Klassischen Stil liegt wieder im Trend – es entschleunigt, man tut Körper und Geist etwas Gutes und bewegt sich in der freien Natur. In Eugendorf bieten die insgesamt drei Klassik-Loipen außerdem noch wunderbare Ausblicke über im Schnee glitzernde Felder, über romantische Wälder bis hin zum Gaisberg und sogar bis zum Dachsteinmassiv.&lt;br&gt;&lt;br&gt;Alle drei Loipen in Eugendorf werden gespurt, sobald es die Schnee- und Wetterlage zulässt. Den aktuellen Stand zu den geöffneten Loipen gibt es tagesaktuell unter dem Eugendorfer Loipenbericht auf &lt;a href="http://www.bergfex.at"&gt;www.bergfex.at&lt;/a&gt;. Außerdem&amp;nbsp;informieren wir auch auf unserer Homepage unter Aktivitäten – Langlaufen über die aktuellen Loipen-Verhältnisse. &lt;/p&gt;&lt;p&gt;Übrigens: Die Benutzung der Langlaufloipen in Eugendorf ist kostenlos! &lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;u&gt;Route:&lt;/u&gt; Die 4,9 Kilometer lange Dorfloipe Eugendorf führt vom öffentlichen Spielplatz im Eugendorfer Ortszentrum zunächst Richtung Eugendorfer Bahnhof, den Wald entlang retour über Einleiten und etwas oberhalb der Ischlerbahnstraße wieder zurück zum Ausgangspunkt. Diese Loipe ist eine leichte Klassik-Loipe, die sich mit ihrer Länge und nur 47 Höhenmetern auch für Anfänger eignet. Je nach Langlauf-Können und Geschwindigkeit hat man die Loipe in etwas mehr als einer Stunde befahren.&lt;br&gt;&lt;br&gt;&lt;u&gt;Parken:&lt;/u&gt; Parkmöglichkeiten gibt es entweder direkt bei den Parkplätzen des öffentlichen Spielplatzes in Eugendorf oder wenige Schritte entfernt bei den öffentlichen Parkplätzen im Eugendorfer Ortszentrum. &lt;br&gt;&lt;br&gt;&lt;u&gt;Einkehrmöglichkeiten:&lt;/u&gt; Für Kaffee, Kuchen und kleine Snacks empfiehlt sich nach dem Langlaufen eine Einkehr in der Bäckerei Leimüller in Eugendorf. Wenn es schon Richtung Mittag- oder Abendessen gehen darf, landen sowohl der Landgasthof Holznerwirt als auch der Gasthof Neuwirt unweit der Dorfloipe in der Ortsmitte gelegen zu einem gutbürgerlichen Genussstopp ein.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Noch ein paar Tipps zum Langlaufen in Eugendorf: &lt;br&gt;&lt;/b&gt;Bevor es losgeht, empfehlen wir, ein paar kleine Aufwärm- und Dehnübungen zu machen, um die Muskeln nicht zu überfordern. Tipp: Dabei nicht die Arme bzw. Schultern außer Acht lassen, um Muskelkater zu vermeiden. Auch auf ein Getränk sollte nicht vergessen werden – wer die Bergloipe mehrmals fahren möchte, kann z.B. beim Einstieg eine Getränkeflasche deponieren.&lt;br&gt;&lt;br&gt;Lust auf noch mehr Langlauf-Spaß im SalzburgerLand in der Umgebung von Eugendorf? Dann empfehlen wir die Langlaufloipen in Thalgau-Berg und im Langlaufdorf Faistenau in der Fuschlseeregion. Sie bieten verschiedene Langlaufspuren für Classic und Skating Stil an (Loipengebühr kann jeweils an den dort aufgestellten Automaten entrichtet werden).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</text>
+        <text rel="teaser" type="text/html"/>
+        <text rel="teaser" type="text/plain"/>
+      </texts>
+      <country>AT</country>
+      <areas>
+        <area>Flachgau</area>
+        <area>Salzburg</area>
+        <area>Salzburger Umgebungsorte</area>
+      </areas>
+      <city>Eugendorf</city>
+      <zip>5301</zip>
+      <street>Salzburger Straße 7</street>
+      <phone>+43 06225 5424</phone>
+      <web>https://web4.deskline.net/austriainfo/de/infosystem/detail/TSG/d8d971ed-f8ca-4115-959e-71a03604e68f/info</web>
+      <email>info@eugendorf.com</email>
+      <author/>
+      <geo>
+        <main latitude="47.8666871686089" longitude="13.1190001905152"/>
+      </geo>
+      <media_objects>
+        <media_object rel="other" url="https://www.eugendorf.com/aktivitaten/langlaufen-skifahren/langlaufen/">Homepage</media_object>
+        <media_object rel="default" url="http://resc.deskline.net/images/TSG/1/d683bd6c-3456-4897-b3b2-8ea1cd69b683/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 3</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/93d53fc7-e15e-4570-b4aa-bc48af264573/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 1</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/8b963ff6-7a9a-466b-a55d-e1fc463332a9/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 2</media_object>
+      </media_objects>
+      <attributes>
+        <attribute key="Quelle">Feratel</attribute>
+        <attribute key="Quellekey">d8d971ed-f8ca-4115-959e-71a03604e68f</attribute>
+        <attribute key="SYSTEMID_FERATEL">d8d971ed-f8ca-4115-959e-71a03604e68f</attribute>
+        <attribute key="GEMKZF">50310</attribute>
+        <attribute key="BEZIRK">Flachgau</attribute>
+        <attribute key="BUNDESLAND">Salzburg</attribute>
+      </attributes>
+      <features>
+        <feature>OBJECT_OPEN_MONTAG</feature>
+        <feature>OBJECT_OPEN_DIENSTAG</feature>
+        <feature>OBJECT_OPEN_MITTWOCH</feature>
+        <feature>OBJECT_OPEN_DONNERSTAG</feature>
+        <feature>OBJECT_OPEN_FREITAG</feature>
+        <feature>OBJECT_OPEN_SAMSTAG</feature>
+        <feature>OBJECT_OPEN_SONNTAG</feature>
+      </features>
+      <addresses>
+        <address rel="contact_person">
+          <name>Tourismusverband Eugendorf</name>
+          <city>Eugendorf</city>
+          <zip>5301</zip>
+          <street>Salzburger Straße 7</street>
+          <phone>+43 06225 5424</phone>
+          <web>https://www.eugendorf.com/</web>
+          <email>info@eugendorf.com</email>
+        </address>
+      </addresses>
+      <created>0001-01-01T00:00:00Z</created>
+      <changed>2022-12-09T13:49:43+01:00</changed>
+      <source url="https://www.feratel.com/">Feratel</source>
+      <company/>
+      <district/>
+      <postoffice/>
+      <phone2/>
+    </item>
+    <item>
+      <global_id>feratel_poi_dab14386-5116-47ea-83ee-841d6d17ed4b</global_id>
+      <id>dab14386-5116-47ea-83ee-841d6d17ed4b</id>
+      <title>Mozarteumorchester Salzburg</title>
+      <type>POI</type>
+      <categories>
+        <category>Kultureinrichtungen</category>
+        <category>Sonstige Kultureinrichtung</category>
+      </categories>
+      <texts>
+        <text rel="price" type="text/html">&lt;p&gt;20% Ermäßigung mit der SalzburgCard*&lt;br&gt;* gilt nur für Eigenveranstaltungen im Vorverkauf&lt;/p&gt;</text>
+        <text rel="details" type="text/html">&lt;h3&gt;Botschafter der Mozartstadt &lt;/h3&gt;&lt;p&gt;Der Allrounder: Das Mozarteumorchester ist Salzburgs Symphonie-, Festspiel- und Opernorchester. Es entstand mit der Unterstützung von Mozarts Witwe Constanze und den gemeinsamen Söhnen Franz Xaver und Karl Thomas. Sein Ursprung geht auf den 1841 gegründeten „&lt;a href="https://www.sn.at/wiki/Dom-Musikverein_und_Mozarteum"&gt;Dommusikverein und Mozarteum&lt;/a&gt;“ zurück. Heute ist das Mozarteumorchester eines der führenden Symphonieorchester Österreichs. &lt;/p&gt;&lt;h3&gt; Die Wiener Klassik in neuem Licht &lt;/h3&gt;&lt;p&gt;Die große Spezialität des Mozarteumorchesters ist eine neue, spannende Interpretation der &lt;a href="https://de.wikipedia.org/wiki/Wiener_Klassik"&gt;Wiener Klassik&lt;/a&gt;. Natürlich spielt Salzburgs ‚Lokalmatador‘, Wolfgang Amadeus Mozart, eine besondere Rolle im Repertoire. Jedoch kommen auch Werke der Romantik und Zeitgenössisches zum Zug. &lt;/p&gt;&lt;h3&gt;Mozarteumorchester live erleben &lt;/h3&gt;&lt;p&gt;Das Mozarteumorchester veranstaltet zwei eigene Konzertreihen: die Sonntagsmatineen und die Donnerstagskonzerte. Fixe Engagements hat das Orchester bei den Festspielen mit den Mozart-Matineen und für Opernproduktionen. Außerdem ist es bei der Mozartwoche aktiv und gibt Musikvorstellungen im Salzburger Landestheater. Dazu kommen zahlreiche Gastspiele und Tourneen von Wien bis Tokyo. &lt;/p&gt;&lt;h3&gt; Ein offenes Ohr für klassische Musik lehren &lt;/h3&gt;&lt;p&gt;Die Musikvermittlung liegt dem Mozarteumorchester sehr am Herzen. In interaktiven Workshops und offenen Proben will das Orchester vor allem der jungen Generation klassische Musik näherbringen. Auch Angebote für Jugendliche und Erwachsene eröffnen eine neue Welt des Hörens. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.salzburg.info/de/magazin/stadterlebnis/ein-meer-aus-himmlischen-klaengen_a_339203"&gt;Ein Meer aus himmlischen Klängen&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;  </text>
+        <text rel="teaser" type="text/html">&lt;p&gt;Mozart trifft Moderne: Das Mozarteumorchester ist Experte für eine zeitgemäße Interpretation der Wiener Klassik.&lt;br&gt;&lt;/p&gt;</text>
+        <text rel="teaser" type="text/plain"/>
+      </texts>
+      <country>AT</country>
+      <areas>
+        <area>Salzburg</area>
+        <area>Salzburg Stadt</area>
+        <area>Stadt Salzburg</area>
+      </areas>
+      <city>Salzburg</city>
+      <zip>5020</zip>
+      <street>Erzbischof-Gebhard-Straße 10</street>
+      <phone>+43662 8435710</phone>
+      <web>https://web4.deskline.net/austriainfo/de/infosystem/detail/TSG/dab14386-5116-47ea-83ee-841d6d17ed4b/info</web>
+      <email>info@mozarteumorchester.at</email>
+      <author/>
+      <geo>
+        <main latitude="47.7928828" longitude="13.050776"/>
+      </geo>
+      <media_objects>
+        <media_object rel="other" url="https://www.mozarteumorchester.at/">Homepage</media_object>
+        <media_object rel="default" url="http://resc.deskline.net/images/TSG/1/66e52ddc-198b-4292-83da-ce65c1230c43/99/image.jpg" type="image/jpeg" source="Mozarteumorchester/ Nancy Horowitz">Mozarteumorchester Salzburg Gesamtbesetzung</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/ab48193d-60f5-4499-acb7-13e3d721ef30/99/image.jpg" type="image/jpeg" source="Mozarteumorchester/ Nancy Horowitz">Mozarteumorchester</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/f58961b3-a96e-47ac-a006-4f517445a867/99/image.jpg" type="image/jpeg" source="Mozarteumorchester/ Nancy Horowitz">Tourneebesetzung Mozarteumorchester Salzburg</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/9ecc24c5-3c13-4787-b9e6-4bb46feea4f7/99/image.jpg" type="image/jpeg" source="Mozarteumorchester/ Nancy Horowitz">Das Mozarteumorchester Salzburg Tourneebesetzung</media_object>
+      </media_objects>
+      <attributes>
+        <attribute key="Quelle">Feratel</attribute>
+        <attribute key="Quellekey">dab14386-5116-47ea-83ee-841d6d17ed4b</attribute>
+        <attribute key="SYSTEMID_FERATEL">dab14386-5116-47ea-83ee-841d6d17ed4b</attribute>
+        <attribute key="GEMKZF">50101</attribute>
+        <attribute key="BEZIRK">Stadt Salzburg</attribute>
+        <attribute key="BUNDESLAND">Salzburg</attribute>
+      </attributes>
+      <features>
+        <feature>OBJECT_OPEN_MONTAG</feature>
+        <feature>OBJECT_OPEN_DIENSTAG</feature>
+        <feature>OBJECT_OPEN_MITTWOCH</feature>
+        <feature>OBJECT_OPEN_DONNERSTAG</feature>
+        <feature>OBJECT_OPEN_FREITAG</feature>
+        <feature>OBJECT_OPEN_SAMSTAG</feature>
+        <feature>OBJECT_OPEN_SONNTAG</feature>
+      </features>
+      <addresses>
+        <address rel="contact_person">
+          <name>Mozarteumorchester Salzburg</name>
+          <city>Salzburg</city>
+          <zip>5020</zip>
+          <street>Erzbischof-Gebhard-Straße 10</street>
+          <phone>+43662 8435710</phone>
+          <web>https://www.mozarteumorchester.at/</web>
+          <email>info@mozarteumorchester.at</email>
+        </address>
+      </addresses>
+      <created>0001-01-01T00:00:00Z</created>
+      <changed>2023-01-25T16:30:23+01:00</changed>
+      <source url="https://www.feratel.com/">Feratel</source>
+      <company/>
+      <district/>
+      <postoffice/>
+      <phone2/>
+    </item>
+  </items>
+</result>
