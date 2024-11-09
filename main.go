@@ -59,8 +59,8 @@ type MediaObject struct {
 func main() {
 	http.HandleFunc("/api/moods", moods)
 	http.HandleFunc("/api/pois", pois)
-	fmt.Println("Listening on port 8080")
-	http.ListenAndServe(":8080", nil)
+	fmt.Println("Listening on port 3000")
+	http.ListenAndServe(":3000", nil)
 }
 
 func pois(w http.ResponseWriter, req *http.Request) {
