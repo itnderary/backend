@@ -18,7 +18,7 @@ package: build
 	KO_DOCKER_REPO=${KO_LOCAL_DOCKER_REPO} ko build --bare
 
 publish: build
-	KO_DOCKER_REPO=${KO_LOCAL_DOCKER_REPO} ko build --bare
+	KO_DOCKER_REPO=${KO_DOCKER_REPO} ko build --bare
 
 clean:
 	go clean
