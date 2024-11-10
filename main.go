@@ -88,7 +88,7 @@ func pois(w http.ResponseWriter, req *http.Request) {
 		poi.Name = item.Name
 		for _, t := range item.Texts.Texts {
 			if t.Type == "details" {
-				poi.Description = t.Text
+				poi.Description = getDescForUid(item.ID)
 			}
 		}
 		poi.ImageUrl = getImageForUid(item.ID, item.Media.MediaObjects)
