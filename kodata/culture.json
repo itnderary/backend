@@ -5,6 +5,7 @@
       {
         "name": "Mozarteumorchester Salzburg",
         "description": "The Mozarteum Orchestra is Salzburg's symphony, festival and opera orchestra. It was founded with the support of Mozart's widow Constanze and their sons Franz Xaver and Karl Thomas. Its origins go back to the Cathedral Music Society and Mozarteum, founded in 1841. Today, the Mozarteum Orchestra is one of Austria's leading symphony orchestras. Viennese classical music in a new light: The Mozarteum Orchestra's great speciality is a new, exciting interpretation of Viennese classical music. Of course, Salzburg's ‘local hero’, Wolfgang Amadeus Mozart, plays a special role in the repertoire. However, the orchestra also performs Romantic and contemporary works.",
+        "url": "https://www.mozarteumorchester.at/",
         "image": "http://resc.deskline.net/images/TSG/1/ab48193d-60f5-4499-acb7-13e3d721ef30/99/image.jpg",
         "tags": ["culture", "music"],
         "prio": 1,
@@ -15,6 +16,7 @@
       {
         "name": "Mozarts Wohnhaus, Mozart Denkmal und Mozartplatz",
         "description": "From 1773 to 1787, the Mozart family lived in the ‘Tanzmeisterhaus’ on today's Makartplatz. The flat on the first floor now houses a museum. Mozartplatz is located in the centre of Salzburg's old town and is surrounded by Residenzplatz and Waagplatz. The Mozart statue forms the centrepiece of the square.",
+        "url": "https://mozarteum.at/museums/mozarts-geburtshaus/#info",
         "image": "http://resc.deskline.net/images/SPO/1/41fa6cc7-1daa-40da-a2a2-2cc91d134914/99/image.jpg",
         "tags": ["culture", "museum"],
         "opening_hours": "Mo-So 10:00 - 18:00",
