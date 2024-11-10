@@ -9,6 +9,8 @@ import (
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/rs/cors"
 )
 
 type POIS []POI
@@ -63,10 +65,13 @@ func main() {
 		port = p
 	}
 
-	http.HandleFunc("/api/moods", moods)
-	http.HandleFunc("/api/pois", pois)
+	mux := http.NewServeMux()
+
+	mux.HandleFunc("/api/moods", moods)
+	mux.HandleFunc("/api/pois", pois)
+	handler := cors.Default().Handler(mux)
 	fmt.Printf("Listening on port %s\n", port)
-	http.ListenAndServe(fmt.Sprintf(":%s", port), nil)
+	http.ListenAndServe(fmt.Sprintf(":%s", port), handler)
 }
 
 func pois(w http.ResponseWriter, req *http.Request) {
