@@ -9,6 +9,8 @@ import (
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/rs/cors"
 )
 
 type POIS []POI
@@ -19,6 +21,7 @@ type POI struct {
 	Name        string `json:"name"`
 	Description string `json:"description"`
 	ImageUrl    string `json:"image"`
+	Homepage    string `json:"homepage"`
 	Tags        Tags   `json:"tags"`
 }
 
@@ -57,10 +60,20 @@ type MediaObject struct {
 }
 
 func main() {
-	http.HandleFunc("/api/moods", moods)
-	http.HandleFunc("/api/pois", pois)
-	fmt.Println("Listening on port 3000")
-	http.ListenAndServe(":3000", nil)
+	port := "3000"
+
+	if p, ok := os.LookupEnv("PORT"); ok {
+		port = p
+	}
+
+	mux := http.NewServeMux()
+
+	mux.HandleFunc("/api/moods", moods)
+	mux.HandleFunc("/api/pois", pois)
+	mux.HandleFunc("/api/recommendation", recommendation)
+	handler := cors.Default().Handler(mux)
+	fmt.Printf("Listening on port %s\n", port)
+	http.ListenAndServe(fmt.Sprintf(":%s", port), handler)
 }
 
 func pois(w http.ResponseWriter, req *http.Request) {
@@ -88,10 +101,11 @@ func pois(w http.ResponseWriter, req *http.Request) {
 		poi.Name = item.Name
 		for _, t := range item.Texts.Texts {
 			if t.Type == "details" {
-				poi.Description = t.Text
+				poi.Description = getDescForUid(item.ID)
 			}
 		}
 		poi.ImageUrl = getImageForUid(item.ID, item.Media.MediaObjects)
+		poi.Homepage = item.Media.MediaObjects[0].Url
 		poi.Tags = getTagsForUid(item.ID)
 		p = append(p, poi)
 	}
@@ -138,6 +152,19 @@ func getDescForUid(uid string) string {
 
 func moods(w http.ResponseWriter, req *http.Request) {
 	fn := fmt.Sprintf("%s/moods.json", os.Getenv("KO_DATA_PATH"))
+	r, err := os.Open(fn)
+
+	if err != nil {
+		log.Printf("Could not open file: %s", fn)
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	io.Copy(w, r)
+}
+
+func recommendation(w http.ResponseWriter, req *http.Request) {
+	fn := fmt.Sprintf("%s/culture.json", os.Getenv("KO_DATA_PATH"))
 	r, err := os.Open(fn)
 
 	if err != nil {

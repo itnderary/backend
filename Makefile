@@ -9,7 +9,7 @@ test:
 	go test
 
 run: package
-	docker run -p 8080:8080 ${KO_LOCAL_DOCKER_REPO}/${DOCKER_RUN_IMAGE_SUFFIX}
+	docker run -p 3000:3000 ${KO_LOCAL_DOCKER_REPO}/${DOCKER_RUN_IMAGE_SUFFIX}
 
 ${BINARY_NAME}: *.go
 	go build -o ${BINARY_NAME}
