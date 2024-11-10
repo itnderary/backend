@@ -70,6 +70,7 @@ func main() {
 
 	mux.HandleFunc("/api/moods", moods)
 	mux.HandleFunc("/api/pois", pois)
+	mux.HandleFunc("/api/recommendation", recommendation)
 	handler := cors.Default().Handler(mux)
 	fmt.Printf("Listening on port %s\n", port)
 	http.ListenAndServe(fmt.Sprintf(":%s", port), handler)
@@ -162,7 +163,7 @@ func moods(w http.ResponseWriter, req *http.Request) {
 	io.Copy(w, r)
 }
 
-func culture(w http.ResponseWriter, req *http.Request) {
+func recommendation(w http.ResponseWriter, req *http.Request) {
 	fn := fmt.Sprintf("%s/culture.json", os.Getenv("KO_DATA_PATH"))
 	r, err := os.Open(fn)
 
