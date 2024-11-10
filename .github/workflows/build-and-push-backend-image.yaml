@@ -1,7 +1,7 @@
 name: build-and-push-image
 on:
   push:
-    branches-ignore:
+    branches:
       - main
 jobs:
   publish:

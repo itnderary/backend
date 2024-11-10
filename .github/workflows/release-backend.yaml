@@ -1,0 +1,33 @@
+name: build-and-release
+on:
+  push:
+    branches-ignore:
+      - main
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Prepare Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: "1.23.x"
+      - name: Setup Ko
+        uses: ko-build/setup-ko@v0.6
+        env:
+          KO_DOCKER_REPO: europe-west3-docker.pkg.dev/itnderary/backend
+      - name: Login and build image
+        run: |
+          echo "${{ secrets.ARTIFACT_REGISTRY_TOKEN_B64 }}" | base64 -d | ko login europe-west3-docker.pkg.dev -u _json_key --password-stdin
+          ko build -B
+      - name: Login to GCP
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: "${{ secrets.ARTIFACT_REGISTRY_TOKEN_ }}"
+      - name: Setup Google Cloud SDK
+        uses: "google-github-actions/setup-gcloud@v2"
+        with:
+          version: ">= 476.0.0"
+      - name: Deploy image
+        run: gcloud run deploy backend-service --image=europe-west3-docker.pkg.dev/itnderary/backend/v2:latest --region europe-west3 --project itnderary
