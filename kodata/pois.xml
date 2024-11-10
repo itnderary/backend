@@ -272,80 +272,6 @@
       <phone2/>
     </item>
     <item>
-      <global_id>feratel_poi_d8d971ed-f8ca-4115-959e-71a03604e68f</global_id>
-      <id>d8d971ed-f8ca-4115-959e-71a03604e68f</id>
-      <title>Langlaufloipe "Dorf" in Eugendorf</title>
-      <type>POI</type>
-      <categories>
-        <category>Sporteinrichtungen</category>
-        <category>Wintersport-Einrichtungen</category>
-        <category>Langlaufgebiet</category>
-      </categories>
-      <texts>
-        <text rel="openings" type="text/html">&lt;p&gt;Im Winter und nur bei ausreichender Schneelage!&lt;/p&gt; &lt;p&gt;Genauere Informationen im Tourismusverband Eugendorf&lt;/p&gt;</text>
-        <text rel="details" type="text/html">&lt;p&gt;&lt;b&gt;Dorfloipe Eugendorf&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Langlaufen im Klassischen Stil liegt wieder im Trend – es entschleunigt, man tut Körper und Geist etwas Gutes und bewegt sich in der freien Natur. In Eugendorf bieten die insgesamt drei Klassik-Loipen außerdem noch wunderbare Ausblicke über im Schnee glitzernde Felder, über romantische Wälder bis hin zum Gaisberg und sogar bis zum Dachsteinmassiv.&lt;br&gt;&lt;br&gt;Alle drei Loipen in Eugendorf werden gespurt, sobald es die Schnee- und Wetterlage zulässt. Den aktuellen Stand zu den geöffneten Loipen gibt es tagesaktuell unter dem Eugendorfer Loipenbericht auf &lt;a href="http://www.bergfex.at"&gt;www.bergfex.at&lt;/a&gt;. Außerdem&amp;nbsp;informieren wir auch auf unserer Homepage unter Aktivitäten – Langlaufen über die aktuellen Loipen-Verhältnisse. &lt;/p&gt;&lt;p&gt;Übrigens: Die Benutzung der Langlaufloipen in Eugendorf ist kostenlos! &lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;u&gt;Route:&lt;/u&gt; Die 4,9 Kilometer lange Dorfloipe Eugendorf führt vom öffentlichen Spielplatz im Eugendorfer Ortszentrum zunächst Richtung Eugendorfer Bahnhof, den Wald entlang retour über Einleiten und etwas oberhalb der Ischlerbahnstraße wieder zurück zum Ausgangspunkt. Diese Loipe ist eine leichte Klassik-Loipe, die sich mit ihrer Länge und nur 47 Höhenmetern auch für Anfänger eignet. Je nach Langlauf-Können und Geschwindigkeit hat man die Loipe in etwas mehr als einer Stunde befahren.&lt;br&gt;&lt;br&gt;&lt;u&gt;Parken:&lt;/u&gt; Parkmöglichkeiten gibt es entweder direkt bei den Parkplätzen des öffentlichen Spielplatzes in Eugendorf oder wenige Schritte entfernt bei den öffentlichen Parkplätzen im Eugendorfer Ortszentrum. &lt;br&gt;&lt;br&gt;&lt;u&gt;Einkehrmöglichkeiten:&lt;/u&gt; Für Kaffee, Kuchen und kleine Snacks empfiehlt sich nach dem Langlaufen eine Einkehr in der Bäckerei Leimüller in Eugendorf. Wenn es schon Richtung Mittag- oder Abendessen gehen darf, landen sowohl der Landgasthof Holznerwirt als auch der Gasthof Neuwirt unweit der Dorfloipe in der Ortsmitte gelegen zu einem gutbürgerlichen Genussstopp ein.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Noch ein paar Tipps zum Langlaufen in Eugendorf: &lt;br&gt;&lt;/b&gt;Bevor es losgeht, empfehlen wir, ein paar kleine Aufwärm- und Dehnübungen zu machen, um die Muskeln nicht zu überfordern. Tipp: Dabei nicht die Arme bzw. Schultern außer Acht lassen, um Muskelkater zu vermeiden. Auch auf ein Getränk sollte nicht vergessen werden – wer die Bergloipe mehrmals fahren möchte, kann z.B. beim Einstieg eine Getränkeflasche deponieren.&lt;br&gt;&lt;br&gt;Lust auf noch mehr Langlauf-Spaß im SalzburgerLand in der Umgebung von Eugendorf? Dann empfehlen wir die Langlaufloipen in Thalgau-Berg und im Langlaufdorf Faistenau in der Fuschlseeregion. Sie bieten verschiedene Langlaufspuren für Classic und Skating Stil an (Loipengebühr kann jeweils an den dort aufgestellten Automaten entrichtet werden).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</text>
-        <text rel="teaser" type="text/html"/>
-        <text rel="teaser" type="text/plain"/>
-      </texts>
-      <country>AT</country>
-      <areas>
-        <area>Flachgau</area>
-        <area>Salzburg</area>
-        <area>Salzburger Umgebungsorte</area>
-      </areas>
-      <city>Eugendorf</city>
-      <zip>5301</zip>
-      <street>Salzburger Straße 7</street>
-      <phone>+43 06225 5424</phone>
-      <web>https://web4.deskline.net/austriainfo/de/infosystem/detail/TSG/d8d971ed-f8ca-4115-959e-71a03604e68f/info</web>
-      <email>info@eugendorf.com</email>
-      <author/>
-      <geo>
-        <main latitude="47.8666871686089" longitude="13.1190001905152"/>
-      </geo>
-      <media_objects>
-        <media_object rel="other" url="https://www.eugendorf.com/aktivitaten/langlaufen-skifahren/langlaufen/">Homepage</media_object>
-        <media_object rel="default" url="http://resc.deskline.net/images/TSG/1/d683bd6c-3456-4897-b3b2-8ea1cd69b683/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 3</media_object>
-        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/93d53fc7-e15e-4570-b4aa-bc48af264573/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 1</media_object>
-        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/8b963ff6-7a9a-466b-a55d-e1fc463332a9/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 2</media_object>
-      </media_objects>
-      <attributes>
-        <attribute key="Quelle">Feratel</attribute>
-        <attribute key="Quellekey">d8d971ed-f8ca-4115-959e-71a03604e68f</attribute>
-        <attribute key="SYSTEMID_FERATEL">d8d971ed-f8ca-4115-959e-71a03604e68f</attribute>
-        <attribute key="GEMKZF">50310</attribute>
-        <attribute key="BEZIRK">Flachgau</attribute>
-        <attribute key="BUNDESLAND">Salzburg</attribute>
-      </attributes>
-      <features>
-        <feature>OBJECT_OPEN_MONTAG</feature>
-        <feature>OBJECT_OPEN_DIENSTAG</feature>
-        <feature>OBJECT_OPEN_MITTWOCH</feature>
-        <feature>OBJECT_OPEN_DONNERSTAG</feature>
-        <feature>OBJECT_OPEN_FREITAG</feature>
-        <feature>OBJECT_OPEN_SAMSTAG</feature>
-        <feature>OBJECT_OPEN_SONNTAG</feature>
-      </features>
-      <addresses>
-        <address rel="contact_person">
-          <name>Tourismusverband Eugendorf</name>
-          <city>Eugendorf</city>
-          <zip>5301</zip>
-          <street>Salzburger Straße 7</street>
-          <phone>+43 06225 5424</phone>
-          <web>https://www.eugendorf.com/</web>
-          <email>info@eugendorf.com</email>
-        </address>
-      </addresses>
-      <created>0001-01-01T00:00:00Z</created>
-      <changed>2022-12-09T13:49:43+01:00</changed>
-      <source url="https://www.feratel.com/">Feratel</source>
-      <company/>
-      <district/>
-      <postoffice/>
-      <phone2/>
-    </item>
-    <item>
       <global_id>feratel_poi_dab14386-5116-47ea-83ee-841d6d17ed4b</global_id>
       <id>dab14386-5116-47ea-83ee-841d6d17ed4b</id>
       <title>Mozarteumorchester Salzburg</title>
@@ -413,6 +339,80 @@
       </addresses>
       <created>0001-01-01T00:00:00Z</created>
       <changed>2023-01-25T16:30:23+01:00</changed>
+      <source url="https://www.feratel.com/">Feratel</source>
+      <company/>
+      <district/>
+      <postoffice/>
+      <phone2/>
+    </item>
+    <item>
+      <global_id>feratel_poi_d8d971ed-f8ca-4115-959e-71a03604e68f</global_id>
+      <id>d8d971ed-f8ca-4115-959e-71a03604e68f</id>
+      <title>Langlaufloipe "Dorf" in Eugendorf</title>
+      <type>POI</type>
+      <categories>
+        <category>Sporteinrichtungen</category>
+        <category>Wintersport-Einrichtungen</category>
+        <category>Langlaufgebiet</category>
+      </categories>
+      <texts>
+        <text rel="openings" type="text/html">&lt;p&gt;Im Winter und nur bei ausreichender Schneelage!&lt;/p&gt; &lt;p&gt;Genauere Informationen im Tourismusverband Eugendorf&lt;/p&gt;</text>
+        <text rel="details" type="text/html">&lt;p&gt;&lt;b&gt;Dorfloipe Eugendorf&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Langlaufen im Klassischen Stil liegt wieder im Trend – es entschleunigt, man tut Körper und Geist etwas Gutes und bewegt sich in der freien Natur. In Eugendorf bieten die insgesamt drei Klassik-Loipen außerdem noch wunderbare Ausblicke über im Schnee glitzernde Felder, über romantische Wälder bis hin zum Gaisberg und sogar bis zum Dachsteinmassiv.&lt;br&gt;&lt;br&gt;Alle drei Loipen in Eugendorf werden gespurt, sobald es die Schnee- und Wetterlage zulässt. Den aktuellen Stand zu den geöffneten Loipen gibt es tagesaktuell unter dem Eugendorfer Loipenbericht auf &lt;a href="http://www.bergfex.at"&gt;www.bergfex.at&lt;/a&gt;. Außerdem&amp;nbsp;informieren wir auch auf unserer Homepage unter Aktivitäten – Langlaufen über die aktuellen Loipen-Verhältnisse. &lt;/p&gt;&lt;p&gt;Übrigens: Die Benutzung der Langlaufloipen in Eugendorf ist kostenlos! &lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;u&gt;Route:&lt;/u&gt; Die 4,9 Kilometer lange Dorfloipe Eugendorf führt vom öffentlichen Spielplatz im Eugendorfer Ortszentrum zunächst Richtung Eugendorfer Bahnhof, den Wald entlang retour über Einleiten und etwas oberhalb der Ischlerbahnstraße wieder zurück zum Ausgangspunkt. Diese Loipe ist eine leichte Klassik-Loipe, die sich mit ihrer Länge und nur 47 Höhenmetern auch für Anfänger eignet. Je nach Langlauf-Können und Geschwindigkeit hat man die Loipe in etwas mehr als einer Stunde befahren.&lt;br&gt;&lt;br&gt;&lt;u&gt;Parken:&lt;/u&gt; Parkmöglichkeiten gibt es entweder direkt bei den Parkplätzen des öffentlichen Spielplatzes in Eugendorf oder wenige Schritte entfernt bei den öffentlichen Parkplätzen im Eugendorfer Ortszentrum. &lt;br&gt;&lt;br&gt;&lt;u&gt;Einkehrmöglichkeiten:&lt;/u&gt; Für Kaffee, Kuchen und kleine Snacks empfiehlt sich nach dem Langlaufen eine Einkehr in der Bäckerei Leimüller in Eugendorf. Wenn es schon Richtung Mittag- oder Abendessen gehen darf, landen sowohl der Landgasthof Holznerwirt als auch der Gasthof Neuwirt unweit der Dorfloipe in der Ortsmitte gelegen zu einem gutbürgerlichen Genussstopp ein.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Noch ein paar Tipps zum Langlaufen in Eugendorf: &lt;br&gt;&lt;/b&gt;Bevor es losgeht, empfehlen wir, ein paar kleine Aufwärm- und Dehnübungen zu machen, um die Muskeln nicht zu überfordern. Tipp: Dabei nicht die Arme bzw. Schultern außer Acht lassen, um Muskelkater zu vermeiden. Auch auf ein Getränk sollte nicht vergessen werden – wer die Bergloipe mehrmals fahren möchte, kann z.B. beim Einstieg eine Getränkeflasche deponieren.&lt;br&gt;&lt;br&gt;Lust auf noch mehr Langlauf-Spaß im SalzburgerLand in der Umgebung von Eugendorf? Dann empfehlen wir die Langlaufloipen in Thalgau-Berg und im Langlaufdorf Faistenau in der Fuschlseeregion. Sie bieten verschiedene Langlaufspuren für Classic und Skating Stil an (Loipengebühr kann jeweils an den dort aufgestellten Automaten entrichtet werden).&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</text>
+        <text rel="teaser" type="text/html"/>
+        <text rel="teaser" type="text/plain"/>
+      </texts>
+      <country>AT</country>
+      <areas>
+        <area>Flachgau</area>
+        <area>Salzburg</area>
+        <area>Salzburger Umgebungsorte</area>
+      </areas>
+      <city>Eugendorf</city>
+      <zip>5301</zip>
+      <street>Salzburger Straße 7</street>
+      <phone>+43 06225 5424</phone>
+      <web>https://web4.deskline.net/austriainfo/de/infosystem/detail/TSG/d8d971ed-f8ca-4115-959e-71a03604e68f/info</web>
+      <email>info@eugendorf.com</email>
+      <author/>
+      <geo>
+        <main latitude="47.8666871686089" longitude="13.1190001905152"/>
+      </geo>
+      <media_objects>
+        <media_object rel="other" url="https://www.eugendorf.com/aktivitaten/langlaufen-skifahren/langlaufen/">Homepage</media_object>
+        <media_object rel="default" url="http://resc.deskline.net/images/TSG/1/d683bd6c-3456-4897-b3b2-8ea1cd69b683/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 3</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/93d53fc7-e15e-4570-b4aa-bc48af264573/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 1</media_object>
+        <media_object rel="imagegallery" url="http://resc.deskline.net/images/TSG/1/8b963ff6-7a9a-466b-a55d-e1fc463332a9/99/image.jpg" type="image/jpeg" source="Tourismusverband Eugendorf">Dorfloipe Ansicht 2</media_object>
+      </media_objects>
+      <attributes>
+        <attribute key="Quelle">Feratel</attribute>
+        <attribute key="Quellekey">d8d971ed-f8ca-4115-959e-71a03604e68f</attribute>
+        <attribute key="SYSTEMID_FERATEL">d8d971ed-f8ca-4115-959e-71a03604e68f</attribute>
+        <attribute key="GEMKZF">50310</attribute>
+        <attribute key="BEZIRK">Flachgau</attribute>
+        <attribute key="BUNDESLAND">Salzburg</attribute>
+      </attributes>
+      <features>
+        <feature>OBJECT_OPEN_MONTAG</feature>
+        <feature>OBJECT_OPEN_DIENSTAG</feature>
+        <feature>OBJECT_OPEN_MITTWOCH</feature>
+        <feature>OBJECT_OPEN_DONNERSTAG</feature>
+        <feature>OBJECT_OPEN_FREITAG</feature>
+        <feature>OBJECT_OPEN_SAMSTAG</feature>
+        <feature>OBJECT_OPEN_SONNTAG</feature>
+      </features>
+      <addresses>
+        <address rel="contact_person">
+          <name>Tourismusverband Eugendorf</name>
+          <city>Eugendorf</city>
+          <zip>5301</zip>
+          <street>Salzburger Straße 7</street>
+          <phone>+43 06225 5424</phone>
+          <web>https://www.eugendorf.com/</web>
+          <email>info@eugendorf.com</email>
+        </address>
+      </addresses>
+      <created>0001-01-01T00:00:00Z</created>
+      <changed>2022-12-09T13:49:43+01:00</changed>
       <source url="https://www.feratel.com/">Feratel</source>
       <company/>
       <district/>
