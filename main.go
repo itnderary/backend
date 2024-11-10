@@ -21,6 +21,7 @@ type POI struct {
 	Name        string `json:"name"`
 	Description string `json:"description"`
 	ImageUrl    string `json:"image"`
+	Homepage    string `json:"homepage"`
 	Tags        Tags   `json:"tags"`
 }
 
@@ -103,6 +104,7 @@ func pois(w http.ResponseWriter, req *http.Request) {
 			}
 		}
 		poi.ImageUrl = getImageForUid(item.ID, item.Media.MediaObjects)
+		poi.Homepage = item.Media.MediaObjects[0].Url
 		poi.Tags = getTagsForUid(item.ID)
 		p = append(p, poi)
 	}
@@ -149,6 +151,19 @@ func getDescForUid(uid string) string {
 
 func moods(w http.ResponseWriter, req *http.Request) {
 	fn := fmt.Sprintf("%s/moods.json", os.Getenv("KO_DATA_PATH"))
+	r, err := os.Open(fn)
+
+	if err != nil {
+		log.Printf("Could not open file: %s", fn)
+		http.Error(w, err.Error(), http.StatusInternalServerError)
+		return
+	}
+
+	io.Copy(w, r)
+}
+
+func culture(w http.ResponseWriter, req *http.Request) {
+	fn := fmt.Sprintf("%s/culture.json", os.Getenv("KO_DATA_PATH"))
 	r, err := os.Open(fn)
 
 	if err != nil {
