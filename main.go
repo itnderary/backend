@@ -57,10 +57,16 @@ type MediaObject struct {
 }
 
 func main() {
+	port := "3000"
+
+	if p, ok := os.LookupEnv("PORT"); ok {
+		port = p
+	}
+
 	http.HandleFunc("/api/moods", moods)
 	http.HandleFunc("/api/pois", pois)
-	fmt.Println("Listening on port 3000")
-	http.ListenAndServe(":3000", nil)
+	fmt.Printf("Listening on port %s\n", port)
+	http.ListenAndServe(fmt.Sprintf(":%s", port), nil)
 }
 
 func pois(w http.ResponseWriter, req *http.Request) {
